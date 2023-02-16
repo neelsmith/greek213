@@ -24,7 +24,7 @@ for (i,psg) in enumerate(c.passages) # enumerate([c.passages[1]])
     else
        "[[browse " * passagecomponent(c.passages[i + 1].urn) *  "]]"
     end
-
+ 
     fname = passagecomponent(psg.urn) * ".md"
     newfile = joinpath(basedir, fname) 
     open(newfile, "w") do io
@@ -41,9 +41,27 @@ for (i,psg) in enumerate(c.passages) # enumerate([c.passages[1]])
     end
     
 
+
+
+
+
+
+
+
+    readprev = if i == 1
+        ""
+    else
+        "[[reader " * passagecomponent(c.passages[i - 1].urn) *  "]]"
+    end
+    readnxt = if i == length(c.passages)
+        ""
+    else
+       "[[reader " * passagecomponent(c.passages[i + 1].urn) *  "]]"
+    end
+
     readerfile = joinpath(readerdir, "reader " * fname)
-    readerlines = [prev * " ☚ : ☛ " * nxt,
-    "[[$(ref)]]",
+    readerlines = [readprev * " ☚ : ☛ " * readnxt,
+    "![[$(ref)]]",
     "## Commentary",
     "![[commentary $(ref)]]",
 
