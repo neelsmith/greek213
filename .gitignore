@@ -1,2 +1,5 @@
 Manifest.toml
 .vscode/
+sandbox/browsable/
+sandbox/passages/
+sandbox/reader/
