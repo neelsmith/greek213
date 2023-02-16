@@ -4,6 +4,7 @@ c = fromcex(f, CitableTextCorpus, FileReader)
 
 basedir = joinpath(pwd(), "sandbox", "passages")
 browsedir = joinpath(pwd(), "sandbox", "browsable")
+readerdir = joinpath(pwd(), "sandbox", "reader")
 
 for (i,psg) in enumerate(c.passages)
     prev = if i == 1
@@ -24,12 +25,30 @@ for (i,psg) in enumerate(c.passages)
     end
 
     browsablefile = joinpath(browsedir, "browse " * fname)
+    ref = passagecomponent(psg.urn)
     contents = [prev * " ☚ : ☛ " * nxt,
-        "![[$(passagecomponent(psg.urn))]]"
+        "![[$(ref)]]"
     ]
     open(browsablefile, "w") do io
         write(io, join(contents, "\n\n") * "\n\n")
     end
     
-    
+
+    readerfile = joinpath(browsedir, "reader " * fname)
+    readerlines = [prev * " ☚ : ☛ " * nxt,
+    "[[$(ref)]]"
+    "## Commentary",
+    "![[commentary $(ref)]]",
+
+  "## Vocabulary",
+    "![[vocab $(ref)]]",
+
+
+    "## Syntax",
+    "![[syntax $(ref)]]",
+    ""
+    ]
+    open(readerfile, "w") do io
+        write(io, join(contreaderlinesents, "\n\n") )
+    end 
 end
