@@ -1,15 +1,2 @@
 theme: "just-the-docs"
-
-title: "Greek 102,  F'22"
-
-
-aux_links:
-  "Daily schedule": 
-    - "https://neelsmith.github.io/greek102/schedule/"
-  "Textbook on web":
-    - "https://hellenike.github.io/textbook/"
-  "PDF of textbook":    
-    - "https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf"
-
-
-footer_content: "Greek 102, Spring 2023.  Encounter a historical language and culture, and engage with how they continue to shape structures of power today.<br/>All material on this web site is available under the Creative Commons Attribution Share-Alike license <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0 <img height=\"15\" width=\"80\" src=\"https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png\" /></a> on <a href=\"https://github.com/neelsmith/latin101\">github</a>."
+title: "Greek 213,  S'23"
