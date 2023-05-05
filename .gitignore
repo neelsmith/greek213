@@ -5,8 +5,8 @@ _site
 docs/.jekyll-cache/
 .vscode/
 scratch/
-S23/assessments/*pdf
-S23/slides/*html
+F23/assessments/*pdf
+F23/slides/*html
 sandbox/browsable/
 sandbox/passages/
 sandbox/reader/
