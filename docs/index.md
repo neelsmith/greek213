@@ -11,7 +11,7 @@ TBA
 
 ## Notes for reading selections
 
-1.1-1.10: what is an *oikos*? what is "wealth"?
+### 1.1-1.10: what is an *oikos*? what is "wealth"?
 
 - Meet the characters: Xenophon, Socrates, Critobulus
 - Vocabulary of science and philosophy: episteme/epistamai, techne, -ikos, logos, dialegw, ergon/onoma
@@ -20,3 +20,6 @@ TBA
 - oaths are emojis: ma, nh
 
 
+### 6.12-6.17: looking for the *kalos kagathos*
+
+- A new character: Ischomenus
