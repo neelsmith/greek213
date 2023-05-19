@@ -23,3 +23,6 @@ TBA
 ### 6.12-6.17: looking for the *kalos kagathos*
 
 - A new character: Ischomenus
+
+
+### 7.4- : the education of Ischomenus' wife
