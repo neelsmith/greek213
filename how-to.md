@@ -16,3 +16,7 @@ After that, just `julia compilecal.jl`.
 `sh pdfsyllabus.sh`
 
 The output will be `printable/syllabus.pdf`
+
+
+## Generating PDF for review doc
+
