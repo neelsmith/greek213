@@ -1,7 +1,7 @@
 Manifest.toml
 docs/Gemfile
 *.lock
-_site
+_site/
 docs/.jekyll-cache/
 .vscode/
 scratch/

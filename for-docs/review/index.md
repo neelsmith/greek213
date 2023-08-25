@@ -11,7 +11,7 @@ has_children: true
 
 ## Morphology
 
-- [Principal parts](./principalparts/)
+- [Finite verbs](./finiteverbs/)
 - [Participles](./participles/)
 - [Adjectives](./adjectives/)
 - Nouns
