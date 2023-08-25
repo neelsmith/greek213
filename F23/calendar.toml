@@ -1,0 +1,28 @@
+# Configure a course calendar
+# Used for title of web page
+courseTitle = "Greek 213, F'23"
+# YYYY-MM-DD
+firstDay = "2023-08-30"
+lastDay = "2023-12-15"
+
+# Pattern of class meetings: "mwf", "tt" or "wf"
+schedule = "mwf"
+
+# Number of weeks the calendar should run for
+totalWeeks =  14
+
+fixedDates = [
+  ["2023-08-28", "Advising: no classes."],
+  ["2023-10-06",  "Last class before fall break."],
+  ["2023-10-16",  "Classes resume."],
+  ["2023-11-20",  "Last class before Thanksgiving break."],
+  ["2023-11-27",  "Classes resume."],
+  ["2023-12-08",  "Last day of classes."],
+  ["2023-12-11",  "Study period begins."],
+  ["2023-12-12",  "Final examinations begin."],
+
+]
+
+
+
+

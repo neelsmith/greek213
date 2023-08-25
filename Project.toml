@@ -2,3 +2,8 @@
 CitableBase = "d6f014bd-995c-41bd-9893-703339864534"
 CitableCorpus = "cf5ac11a-93ef-4a1a-97a3-f6af101603b5"
 CitableText = "41e66566-473b-49d4-85b7-da83b66615d8"
+CourseCalendar = "ae603835-8fca-49e7-adf3-8bd54d23a0ba"
+UnifyJustTheDocs = "11bfd71e-bedf-46a1-8e5b-178579ef73ee"
+
+[compat]
+CourseCalendar = "0.3"
