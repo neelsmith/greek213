@@ -18,7 +18,7 @@ Pkg.activate(".")
 Pkg.instantiate()
 using UnifyJustTheDocs
 
-hdrlines = readlines("printable/settings.yaml")
+hdrlines = readlines("printable/syllabus.yaml")
 hdr = join(hdrlines,"\n")
 
 # Create single markdown file
