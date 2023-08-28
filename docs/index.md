@@ -12,10 +12,17 @@ Welcome to the course web site for Greek 213!
 All course material will be made available here during the first week of classes.
 
 
+> ## ⚠️ Please note
+>
+> ***Masks will be required for our first class meeting.***
+
+
 ## Preparing for first class (Wed., 6 Sept.)
 
 1. For our first class meeting, masks will be required.
 2. Please review the definite article, and the principal parts of verbs.  If you have any questions about the form or usage of the article or principal parts of verbs, bring them to class!
+
+
 
 
 ## Review: the definite article
