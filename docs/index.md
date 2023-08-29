@@ -33,4 +33,5 @@ Welcome to the course web site for Greek 213!
 ### Assignments
 
 - [Wed., Aug. 30](./classes/intro/)
-- Fri., Sept. 1.  Pratice quiz on principal parts.
+- [Fri., Sept. 1](./classes/a_practice/)  Practice quiz on principal parts.
+- Mon., Sept. 4:  quiz on principal parts.
