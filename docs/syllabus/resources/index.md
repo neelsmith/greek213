@@ -1,11 +1,12 @@
 ---
 title: "Resources"
 layout: page
-nav_order: 3
-has_children: true
+parent:  Syllabus
+nav_order: 5
 ---
 
 
+# Resources
 
 ## Commentaries
 

@@ -8,13 +8,15 @@ documentclass: "article"
 
 
 
+Course website: `https://github.com/neelsmith/greek213`
+
 # Contact information
 
 **Instructor**: Neel Smith.  **Email**: at `holycross.edu`, user name `nsmith`
 
-**Regular class meeting times**:  MWF 9:00-9:50, room TBA.  CBL sections: TBA.
+**Regular class meeting times**:  MWF 11:00-11:50, Stein 132.
 
-**Scheduled drop-in hours**:  TBA.
+**Scheduled drop-in hours**:  Tues. 11:00-12:00;  Wed. 1:00-2:30; Thurs. 1:00-2:00.
 
 **Manuscripts, Inscriptions and Documents Club**:  Friday, 2:00 pm - ?, fourth floor of Fenwick Hall.
 
@@ -23,25 +25,9 @@ documentclass: "article"
 
 # Goals
 
-Greek 101 is the first semester of an ambitious new two-semester sequence to introduce you to the study of ancient Greek.  Our curriculum is inspired by the Latin 101-102 sequence developed by several members of our department at Holy Cross, led by [Professor Machado](https://dominicmachado.github.io), and shares a directly parallel set of overarching goals.  By the end of this course, you will:
+Greek 213 builds on the content you mastered in Greek 101-102, and introduces you to reading a historical language.
 
-  - identify ways that  language structures our understanding of the world we live in
-  - articulate how the Greek language has shaped and continues to shape structures of power in the modern world
-  - read and pronounce Greek with confidence and accuracy
-  - analyze syntax and sentence structure in Greek and English
-  - express complex ideas in written composition both in Greek and in English
-  - read authentic, unaltered Greek texts with minimal glossing
-
-
-
-
-# Community-based learning
-
-Community-based learning (CBL) is an essential part of our course.  We are privileged to be be able to study Greek together in our MWF class meetings.  In your CBL work, you will share some of that experience with others. Community-based learning helps us to understand our language study in a broader context. The active engagement it requires also will improve your development of the language skills required for your study of Greek.
-
-Your CBL work will include a weekly CBL section meeting on campus, and a small-group project that will include work in the community.
-
-In the fall semester of 2023, our community partners will be the Worcester Art Museum and the Worcester Public Schools.
+By the end of this course, you will:
 
 
 
@@ -62,9 +48,9 @@ The textbook also has an accompanying youtube channel and playlist at [https://w
 
 ## Technologies and mechanics of submitting assignments
 
-All course material will be available on the course web site at [https://neelsmith.github.io/greek101/](https://neelsmith.github.io/greek101/).
+All course material will be available on the course web site at [https://neelsmith.github.io/greek213/](https://neelsmith.github.io/greek213/).
 
-Written assignments should be written clearly and legibly in dark pencil on paper.
+We will share material using [this course Google Drive](https://drive.google.com/drive/u/0/folders/1hXQ600FaFdCJPisyyHXLCIQvYnmo068X/)
 
 
 
@@ -95,13 +81,46 @@ Your work logs will not be graded, but I will periodically ask you to summarize 
 
 
 
+# Resources
+
+## Commentaries
+
+  - Hubert A. Holden, *The* Oeconomicus *of Xenophone* (London, Macmillan, 1884).  [Google books scan](https://neelsmith.github.io/greek213/Oeconomicus-Holden.pdf)
+  - A.H.N. Sewell, *Xenophon, The Oeconomicus* (Cambridge University Press, 1925) (Pitt Press Series).  [Google books scan](https://neelsmith.github.io/greek213/Oeconomicus-Sewell.pdf).
+  - Ralph Doty, *Xenophon: Oeconomicus VII - XIII* (Bristol Classical Press, 1998). Available through College Book Store.
+  - Sarah B. Pomeroy, *Xenophon Oeconomicus: A Social and Historical Commentary* (Oxford 1994). Scans of selections distributed in class.
+
+## Lexica
+
+  - the *Pocket Oxford Classical Greek Dictionary* ([on Amazon](https://www.amazon.com/Pocket-Oxford-Classical-Greek-Dictionary/dp/0198605129/ref=sr_1_1?keywords=pocket+oxford+classical+greek+dictionary&qid=1683130295&sprefix=pocket+oxford+classical%2Caps%2C80&sr=8-1))
+  - Liddell and Scott's intermediate *Greek-English Lexicon* (the "middle Liddell")  ([on Amazon](https://www.amazon.com/Liddell-Scotts-Greek-English-Lexicon-English/dp/1843560267/ref=sr_1_4?crid=3OJ5L7WUIF1JD&keywords=greek+lexicon&qid=1676554005&sprefix=greek+lexicon%2Caps%2C147&sr=8-4))
+  - Liddell and Scott's *Greek Lexicon* (the "great Scott"): on-line [edition from Furman University](http://folio2.furman.edu/lsj/)
+
+## Reference grammar
+
+  - Herbert Weir Smyth *Greek Grammar* (revised edition). An affordable reprint is available on Amazon [here](https://www.amazon.com/Greek-Grammar-Revised-Herbert-Smyth/dp/1614275238/ref=sr_1_1?crid=12T0UCQ2CW6EZ&keywords=Smyth+Greek+grammar&qid=1683223315&sprefix=smyth+greek+grammar%2Caps%2C82&sr=8-1).
+
+## On-line texts
+
+On our course Google Drive:
+
+  - an Obsidian "vault" (directory), `xenophon-oeconomicus-composite`
+
+From the Scaife library (Perseus project):
+
+  - [Greek text](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg003.perseus-grc2:1.1-1.2/)
+  - [English translation](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg003.perseus-eng2:1.1-1.2/) by E.C. Marchant
+
+
+
+
 # Course requirements and grades
 
 You determine your own course grade by satisfactorily completing a number of assignments in three categories:
 
  1. written and oral assignments for class preparation
- 2. longer portfolio assignments
- 3. work in CBL lab
+ 2. collaborative commentary assignments
+ 3. individual commentary topics
 
 All assignments will be graded satisfactory/unsatisfactory according to an explicit specification of requirements: if you complete all requirements, the assignment is satisfactory.
 
@@ -153,6 +172,13 @@ Your course grade will be recorded from this table.  In the row for each grade, 
 
 
 
+# Peer tutoring
+
+The Department of Classics offers a peer-based tutoring program for intermediate Greek students. In 2023-2024, these will include scheduled review and practice sessions on topics we are covering or reviewing.  Please check the course website for dates and times, and for topics planned during the fall semester.
+
+
+
+
 # Policies
 
 ## Class attendance
@@ -179,12 +205,3 @@ If you are already registered with Disability Services, please let me know as so
 
 You should be familiar with the College’s policy on Academic Integrity posted at
 [https://catalog.holycross.edu/requirements-policies/academic-policies/#academicintegritytext](https://catalog.holycross.edu/requirements-policies/academic-policies/#academicintegritytext)
-
-
-
-
-# Peer tutoring
-
-The Department of Classics and the Classics Department Inclusion Committee offer a peer-based tutoring program for Greek 101 students. The tutors have received training through Academic Services and Learning Resources, and can discuss course with ou, help you understand how to solve problems, and suggest independent learning strategies.
-
-Tutoring workshops run as an appointment-based service of 40-minute sessions, at time arranged between you and the Peer Tutor. To set up an appointment with one of the tutors, please contact your professor.
