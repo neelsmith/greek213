@@ -9,8 +9,8 @@ has_children: true
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Aug 28*, *Aug 30*, *Sep 1* | *no classes* | [Introduction to course](../classes/module1/intro/) | Principal parts | **Mon**: *Advising: no classes.* |
-| *Sep 4*, *Sep 6*, *Sep 8* | \t\n | 2 | 3 |  |
+| *Aug 28*, *Aug 30*, *Sep 1* | *no classes* | [Introduction to course](../classes/module1/intro/) | [A practice of reading](../classes/a_practice/). Practice quiz on principal parts. | **Mon**: *Advising: no classes.* |
+| *Sep 4*, *Sep 6*, *Sep 8* | Reading with [commentaries](../classes/commentaries/). Quiz on princparts | Taking notes with Obsidian | . Submit bio to course web site! |  |
 | *Sep 11*, *Sep 13*, *Sep 15* | 1 | 2 | 3 |  |
 | *Sep 18*, *Sep 20*, *Sep 22* | 1 | 2 | 3 |  |
 | *Sep 25*, *Sep 27*, *Sep 29* | 1 | 2 | 3 |  |

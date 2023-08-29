@@ -32,6 +32,10 @@ Welcome to the course web site for Greek 213!
 
 ### Assignments
 
-- [Wed., Aug. 30](./classes/intro/)
-- [Fri., Sept. 1](./classes/a_practice/)  Practice quiz on principal parts.
+- [Wed., Aug. 30](./classes/intro/): review the article and principal parts of verbs.
+- [Fri., Sept. 1](./classes/a_practice/): introduction to reading Xenophon.  Practice quiz on principal parts.
+
+
+### Coming up
+
 - Mon., Sept. 4:  quiz on principal parts.

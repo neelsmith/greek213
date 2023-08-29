@@ -11,7 +11,7 @@ has_children: true
 
 ## Morphology
 
-- [Finite verbs](./finiteverbs/)
+- [Principal parts of verbs](./principalparts/)
 - The [article](./article/)
 - Nouns
 - Pronouns

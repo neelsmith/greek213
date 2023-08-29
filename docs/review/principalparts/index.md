@@ -1,22 +1,14 @@
 ---
-title: "Finite verbs"
+title: "Principal parts of verbs"
 parent: "Summary review of Greek 101-102"
 layout: page
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 
 
+## Principal parts of verbs
 
-## Finite verbs
-
-*Finite verb forms* have five properties:
-
-1. tense 
-1. voice
-1. mood
-1. person 
-1. number
 
 The *tenses* of finite verbs can be grouped in four *systems* that express the aspect and time of an action:
 
