@@ -2,7 +2,7 @@
 title: "Policies"
 layout: page
 parent:  Syllabus
-nav_order: 10
+nav_order: 18
 ---
 
 # Policies

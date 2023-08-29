@@ -5,6 +5,8 @@ parent:  Syllabus
 nav_order: 1
 ---
 
+Course website: `https://github.com/neelsmith/greek213`
+
 # Contact information
 
 **Instructor**: Neel Smith.  **Email**: at `holycross.edu`, user name `nsmith`

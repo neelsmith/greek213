@@ -21,10 +21,16 @@ Welcome to the course web site for Greek 213!
 
 ## Week overview
 
-### What we will cover
+### Important points
 
-- 
+- review from Greek 101-102: the article and principal parts of verbs
+- a structured practice of reading:
+    1. isolate verbal expressions
+    1. fully identify verb forms, and construction of each verbal expression
+    1. progressing from syntatically topmost verbal expression downward, identify forms and syntax of vocabulary
+    1. synthesize helpful material from commentaries
 
 ### Assignments
 
 - [Wed., Aug. 30](./classes/intro/)
+- Fri., Sept. 1.  Pratice quiz on principal parts.

@@ -28,6 +28,6 @@ The textbook also has an accompanying youtube channel and playlist at [https://w
 
 ## Technologies and mechanics of submitting assignments
 
-All course material will be available on the course web site at [https://neelsmith.github.io/greek101/](https://neelsmith.github.io/greek101/). 
+All course material will be available on the course web site at [https://neelsmith.github.io/greek213/](https://neelsmith.github.io/greek213/). 
 
-Written assignments should be written clearly and legibly in dark pencil on paper.  
+We will share material using [this course Google Drive](https://drive.google.com/drive/u/0/folders/1hXQ600FaFdCJPisyyHXLCIQvYnmo068X/)
