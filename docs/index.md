@@ -7,22 +7,24 @@ has_children: true
 
 # Greek 213, F'23: home page
 
-TBA
-
-## Notes for reading selections
-
-### 1.1-1.10: what is an *oikos*? what is "wealth"?
-
-- Meet the characters: Xenophon, Socrates, Critobulus
-- Vocabulary of science and philosophy: episteme/epistamai, techne, -ikos, logos, dialegw, ergon/onoma
-- Vocab of estate: oikos, oikia, ktemata/ktaomai chremata/chraomai, misthos, periousia, auxano
-- Vocab of dialog: particles: ara/ara, h/h,goun, oukoun/oukoun, mentoi, men oun, and introductoin of sentence with hoti
-- oaths are emojis: ma, nh
 
 
-### 6.12-6.17: looking for the *kalos kagathos*
-
-- A new character: Ischomenus
+Welcome to the course web site for Greek 213!
 
 
-### 7.4- : the education of Ischomenus' wife
+
+> ## ⚠️ Please note
+>
+> ***Masks will be required for our first class meeting.***
+
+
+
+## Week overview
+
+### What we will cover
+
+- 
+
+### Assignments
+
+- [Wed., Aug. 30](./classes/intro/)

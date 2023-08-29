@@ -12,11 +12,11 @@ has_children: true
 ## Morphology
 
 - [Finite verbs](./finiteverbs/)
+- The [article](./article/)
+- Nouns
+- Pronouns
 - [Participles](./participles/)
 - [Adjectives](./adjectives/)
-- Nouns
-- The article
-- Pronouns
 - Regular thematic and athematic verbs
 - Important irregular verbs
 

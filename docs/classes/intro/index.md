@@ -1,41 +1,43 @@
 ---
-title: "Finite verbs"
-parent: "Summary review of Greek 101-102"
+title: "Introduction to course"
 layout: page
-nav_order: 1
+nav_order: 0
 has_children: true
+parent: "Schedule"
 ---
 
 
 
-## Finite verbs
+## Preparing for first class (Wed., 6 Sept.)
 
-*Finite verb forms* have five properties:
-
-1. tense 
-1. voice
-1. mood
-1. person 
-1. number
-
-The *tenses* of finite verbs can be grouped in four *systems* that express the aspect and time of an action:
-
-| System | Tenses | Semantics |
-| --- | --- | --- |
-| The **present system** | present, imperfect | action viewed as  ongoing, repeated or in some sense incomplete | 
-| The **aorist system** | aorist | action viewed as single, or complete |
-| The **future system** | future, future perfect (*rare*) | action has not yet occurred |
-| The **perfect system** | perfect, pluperfect | action viewed as completed but emphasizes continuing effect or presence of the result |
-
-There are three *voices* in Greek:
+Please review the definite article, and the principal parts of verbs.  If you have any questions about the form or usage of the article or principal parts of verbs, bring them to class!
 
 
-| System | Meaning | Example |
-| --- | --- |  --- | 
-| The **active voice** | The grammatical subject performs the action |  |
-| The **passive voice** | The grammatical subject receives the action | |
-| The **middle voice** | Grammatical subjects act on or for themselves | 
 
+## Review: the definite article
+
+### Forms
+
+| | Masculine | Feminine | Neuter |
+| --- | --- | --- | --- |
+| *singular* |  |  |  |
+| **nominative** | ὁ | ἡ | τό |
+| **genitive** | τοῦ | τῆς | τοῦ |
+| **dative** | τῷ | τῇ | τῷ |
+| **accusative** | τόν | τήν | τό |
+| *plural* |  |  |  |
+| **nominative** | οἱ | αἱ | τά |
+| **genitive** | τῶν | τῶν | τῶν |
+| **dative** | τοῖς | ταῖς | τοῖς |
+| **accusative** | τούς | τάς | τά |
+
+
+### Usage
+
+- *attributive* position: two possible forms, e.g., ἡ ἀγαθὴ γυνή, or ἡ γυνὴ ἡ ἀγαθή
+- *predicate* positioν ἡ γυνὴ ἀγαθή
+
+## Review: principal parts
 
 
 ### Forms
@@ -78,6 +80,3 @@ Tense/voice combinations formed from each principal part:
 | --- | --- | --- | --- | --- | --- | --- |
 | Tenses | Present, imperfect | Future | Aorist |  Perfect, pluperfect | Perfect, pluperfect | Future, aorist |
 | Voices | Active, middle, passive|  Active, middle | Active, middle | Active | Middle, passive | Passive |
-
-
-
