@@ -36,3 +36,9 @@ From the Scaife library (Perseus project):
 
 - [Greek text](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg003.perseus-grc2:1.1-1.2/)
 - [English translation](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg003.perseus-eng2:1.1-1.2/) by E.C. Marchant
+
+
+## Technologies we'll use
+
+- A one-page summary of [Markdown](https://commonmark.org/help/), with a [ten-minute tutorial](https://commonmark.org/help/tutorial/)
+- Download the cross-platform note-taking app, [Obsidian](https://obsidian.md/download)
