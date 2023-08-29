@@ -11,8 +11,8 @@ nav_order: 7
 You determine your own course grade by satisfactorily completing a number of assignments in three categories:
 
 1. written and oral assignments for class preparation 
-1. longer portfolio assignments 
-1. work in CBL lab
+1. collaborative commentary assignments 
+1. individual commentary topics
 
 All assignments will be graded satisfactory/unsatisfactory according to an explicit specification of requirements: if you complete all requirements, the assignment is satisfactory.
 
