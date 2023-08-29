@@ -23,60 +23,48 @@ Course website: `https://github.com/neelsmith/greek213`
 
 
 
-# Goals
+# Goals and objectives
 
 Greek 213 builds on the content you mastered in Greek 101-102, and introduces you to reading a historical language.
 
 By the end of this course, you will:
 
-
-
-
-# Organization of the course
-
-## Textbook
-
-The fall semester course is organized in four modules centered on four major ideas about the ancient Greek language. On our course website, each module identifies concrete objectives that will help you achieve the broader course goals summarized above.
-
-The four modules correspond closely to modules 1-4 in the textbook we will be using, which you can purchase directly from the Classics Department office. The text will be available this fall in two installments:  packet 1 will be available the first week of classes; packet 2 will be available after fall break.  In addition, you can always find a current on-line version at [https://hellenike.github.io/textbook/](https://hellenike.github.io/textbook/), and can always download a current PDF of the textbook from [https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf](https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf).
-
-After introducing features of the ancient Greek language, each module of the textbook includes reading that connects the topics you are studying to contemporary experience, and concludes with a reading selection from an authentic ancient text.  This year, our reading selections will be drawn from a defense speech composed by the orator Lysias in a murder trial.
-
-Read sections 1 ("Hellênikê / ἑλληνική: an open-source introduction to ancient Greek") and 2 ("About this textbook") of the textbook to learn more about how the textbook is organized.
-
-The textbook also has an accompanying youtube channel and playlist at [https://www.youtube.com/playlist?list=PLhhpSgbqjgokrwa4HmReaGEptvqURz6Ns](https://www.youtube.com/playlist?list=PLhhpSgbqjgokrwa4HmReaGEptvqURz6Ns).
-
-## Technologies and mechanics of submitting assignments
-
-All course material will be available on the course web site at [https://neelsmith.github.io/greek213/](https://neelsmith.github.io/greek213/).
-
-We will share material using [this course Google Drive](https://drive.google.com/drive/u/0/folders/1hXQ600FaFdCJPisyyHXLCIQvYnmo068X/)
+  - develop habits of reading historical texts including:
+    
+      + recognizing the historical context and expectations of authors and intended audience
+      + isolating verbal expressions, and understanding their construction
+      + using scholarly instruments including lexica, reference grammars, and commentaries
+  - recognize the role of particles to guide your reading of classical Socratic dialog
+  - identify registers of speakers' language
+  - relate the philosophical discussion of the *Oeconomicus* to the concrete social institutions discussed or alluded to in the text
+  - synthesize commentary from multiple sources
+  - contribute to a collaborative commentary with an explicit target audience of second- and third-semester Greek students
 
 
 
 
-# What to expect
+# Course organization and what to expect
 
-There are no prerequisites for this course, and no individual concept we are going to cover this semester is particularly complex, but Greek 101-102 is a fast-paced sequence. At the beginning of the course, *everything* will be new, and you should expect that the hardest part of the entire 101-102 sequence (and maybe of any Greek course you ever take!) will be the first few weeks before fall break, because everything will be new.  Our course is organized so that these weeks introduce the  most frequent features of the language, so as you constantly reuse the material from the beginning of Greek 101, it will not only become increasingly automatic, but will give you a framework that will make it easier to learn further features of the language.
+The central activity in everything we do this semester is reading. Most of our time together in MWF classes will be devoted to reading, as a class and in small groups. We'll use that time to focus on specific practices that we will try to turn into habits. We will supplement these with pauses to review material from Greek 101-102.
 
-Some concepts may sink in immediately, and others may take more practice.  Review and practice are as important as your initial introduction to a topic, so every graded assignment offers you the opportunity to repeat it as often as you need in order to complete it satisfactorily.
+Assignments outside of class will ask you to work through exactly the same approach to reading that we will practice in class.
 
-Most of our class time together will be devoted to actively applying and using ideas from your class preparation. Since much of the value of this time results from your active engagement with course material, and cannot be replicated by passively watching someone else's involvement, I do not plan to record our class meetings.
+## Course material
+
+The starting point for all course material is the course web site at [https://neelsmith.github.io/greek213/](https://neelsmith.github.io/greek213/).
+
+We will share work developing a collaborative commentary using [this course Google Drive](https://drive.google.com/drive/u/0/folders/1hXQ600FaFdCJPisyyHXLCIQvYnmo068X/).  We will use the `pdfs` folder to share reading selections from various sources. The `xenophon-oeconomicus-composite` folder has a text of the *Oeconomicus* in markdown format.
+
+In addition, you have a personal folder on the course Google Drive where you will submit contributions to our collaborative commentary project.
 
 ## Tips
 
 These practices will help you absorb material most effectively:
 
-  - Schedule regular times both for newly assigned homework and review of previously covered material.
+  - Schedule regular times both for newly assigned work and to review previously covered material.
   - Spread your study across several days each week. Multiple, shorter sessions are better preparation than an equal amount of time in a single marathon.
-  - Practice your Greek aloud. Vocalizing Greek and listening to yourself will help you progress more rapidly than reading silently.
-  - When you are studying, focus only on Greek. Turn off your cell phone and any other electronic communications. Turn off any music: you should see, hear and speak only Greek.
-
-## Work log
-
-To help you gauge how effectively you are managing your work, I will ask you to keep a log of your work on Greek. You should note what days you worked on Greek and for how long.  You may also wish to note what kind of work you did: written homework, vocabulary review, or draft of a portfolio assignment, for example.
-
-Your work logs will not be graded, but I will periodically ask you to summarize the number of days and hours per week you have worked on Greek, for anonymous submission. This will help me evaluate how to balance assignments as we progress through the year.
+  - Practice reading Greek aloud. Vocalizing Greek and listening to yourself will help you progress more rapidly than reading silently.
+  - When you are studying, focus only on Greek. Turn off your cell phone and any other electronic devices. Turn off any music: you should see, hear and speak only Greek.
 
 
 
@@ -111,63 +99,63 @@ From the Scaife library (Perseus project):
   - [Greek text](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg003.perseus-grc2:1.1-1.2/)
   - [English translation](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg003.perseus-eng2:1.1-1.2/) by E.C. Marchant
 
+## Technologies we'll use
+
+  - A one-page summary of [Markdown](https://commonmark.org/help/), with a [ten-minute tutorial](https://commonmark.org/help/tutorial/)
+  - Download the cross-platform note-taking app, [Obsidian](https://obsidian.md/download)
+
 
 
 
 # Course requirements and grades
 
-You determine your own course grade by satisfactorily completing a number of assignments in three categories:
+You determine your own course grade by satisfactorily completing a number of assignments in four categories:
 
- 1. written and oral assignments for class preparation
- 2. collaborative commentary assignments
- 3. individual commentary topics
+ 1. brief in-class written and oral assessments
+ 2. contributions to a collaborative commentary project
+ 3. individually authored topics contributed to commentary project
+ 4. class attendance and participation
 
 All assignments will be graded satisfactory/unsatisfactory according to an explicit specification of requirements: if you complete all requirements, the assignment is satisfactory.
 
-## Class preparation
+## Individual assignments
 
-The course schedule includes twenty brief assignments as part of your routine class preparation: one introductory Google form to complete, seventeen assignment to be submitted in writing, and two oral assignments. Each assignment can earn up to two points: one point for a completed *submission* by the specified deadline, and a second point for a grade of *satisfactory*. For written assignments, deadlines are 5:00 pm the day *before* class.
+For in-class assessments and individually authored topics contributed to commentary project, you can earn two points. The first point is for a *complete*, on-time submission.  If your work also satisfies all the requirements for a *satisfactory* submission, you earn a second point.  If your work is complete and on time, but some part of it is not satisfactory, you will have an unlimited number of opportunities to revise the submission by a given deadline.  For example, for short, in-class assessments, if you complete the work and earn the first point for the assignment, but have an error, you would typically have about a week to resubmit the work with corrections.  To resubmit an assignment, bring the revised work to office hours, or make an appointment to go over the revised work with Prof. Smith.
 
-The specifications for these assignments are straightforward: a submission is satisfactory if all responses are correct; an error means that the assignment is not satisfactory. If you submit an assignment on time (earning one point), but have an error, you may resubmit a corrected version as often as you like up until the deadline for final revisions for that module. When a revised submission is satisfactory a second point will be recorded for that assignment.
+## Collaborative commentary
 
-The total points you can earn in this category is 40.
+For our collaborative commentary project, you will in teams to develop a total of four submissions.  We will rotate team membership at mid semester, so that you will participate in one group for the first two submissions, and a different group for the second two submissions.
 
-## Portfolio assignments
+Each of the four submissions can earn three points.  The first point is for a *complete*, on-time submission from your group.  If your group's work also satisfies all the requirements for a *satisfactory* submission, all members of the group also earn a second point. At the conclusion of each submission, you will evaluate your own contributions and your teammates contributions, using a rubric that we will develop together and agree on prior to the first team assignment.  If the evaluation of your individual contribution satisfies the agreed-upon rubric, you will receive a third point.
 
-Over the course of the semester, you will develop a portfolio of ten longer assignments. Four of these will demonstrate mastery of basic features of language by analyzing and explaining forms and constructions; three will be analyses and translations of passages in Greek; three  will be compositions in Greek.
+## Attendance
 
-Throughout the semester, we will set aside class meeting time to workshop drafts of these longer assignments.
+Being prepared and attending class earns up to 6 points in this category of your final course.  We have 27 scheduled class meetings. This table summarizes the scale of attendance points:
 
-As with class preparation assignments, each portfolio assignment earns one point for a complete submission on time, and a second point if it fulfills all the requirements for a satisfactory grade.  Like class preparation assignments, portfolio assignments may be revised as often as you like up to the deadline for revisions for each module.
-
-The total points you can earn in this category is 20.
-
-## CBL lab
-
-Throughout the year, you will participate in a weekly CBL lab led by an alumna or alumnus of last year's Greek 101/102 course.
-
-You will receive two grades for CBL lab work.
-
-  - participation: ten CBL sections are scheduled to meet at Holy Cross.  You earn one point for each section you attend, for a possible total of 10.
-  - small0group project: satisfactory completion of projects in 3 steps. Each step can earn 2 points, for a total possible of 6 points.
-
-The total points you can earn in this category is 16.
+| Class meetings | Points earned |
+| --- | --- |
+| 26+ |  6 |
+| 25 | 5 |
+|24 | 4 |
+|23 | 3 |
+|22 | 2 |
+|< 22 | 0 |
 
 ## Determination of final course grade
 
 Your course grade will be recorded from this table.  In the row for each grade, the numbers in each column represent the minimum number of points required in that category.
 
-| Course grade | Portfolio (out of 20) | Class preparation (out of 40) | CBL  (out of 16) |
-| --- | --- | --- | --- |
-| A | 20 | 38 |   15 |
-| A- | 20 | 36 |   15 |
-| B+ | 18 | 36 |   14 |
-| B | 17 | 35 |  13 |
-| B- | 16 | 34 |   13 |
-| C+ | 15 | 34 |   12 |
-| C | 14 | 33 |   11 |
-| C- | 13 | 32 |   10 |
-| D | 12 | 31 |   8 |
+| Course grade | Up to 8 in-class assessments (16 possible) | Collaborative contributions to commentary (12 possible) | Individual contributions to commentary (2 possible) | Attendance (6 possible) |
+| --- | --- | --- | --- | --- |
+| A | 15 | 12 | 2| 6 |
+| A- | 14 | 11 |2 | 6 |
+| B+ | 14 | 11 |2 |  5 |
+| B | 13 | 10 | 2|  5 |
+| B- |13 | 10 |2 |  4 |
+| C+ | 13 | 9 | 1| 4 |
+| C | 12| 9 | 1| 4 |
+| C- | 12 | 8 |1|  3 |
+| D | 8| 6 | 0| 2 |
 
 
 
@@ -183,11 +171,17 @@ The Department of Classics offers a peer-based tutoring program for intermediate
 
 ## Class attendance
 
-Active participation in class is one of the most effective ways to learn ancient Greek.  My expectations for your class attendance follow the college policies posted at [https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext](https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext).
+Work in class is an essential component of the course, and regular attendance is required.  (See the course grading rubric in this syllabus for how class attendance contributes to your final course grade.) Excused absences do *not* count against your course grade. If you know of scheduled conflicts with class meeting times, please speak with Prof. Smith as soon as possible to make arrangements ahead of time for how best to make up work for an excused absence.
 
-If at some point in the semester you are unable to complete the required preparation for a single class, please come anyway: staying away only compounds the difficulty of catching up.  If you let me know that you're not prepared, I will not call on you in class.
+If you are sick or have symptoms of a possible communicable disease such as COVID, on the other, please do *not* come to class. You should get in touch with Prof. Smith by email as soon as possible to make arrangements for following up on an unplanned excused absence.
 
-If you are experiencing symptoms of a communicable disease, please let me know and do *not* come to class.  If you are are unable to attend class for whatever reason, for a shorter or longer period of time, please get in touch with me so we can work out a plan to get you caught up.
+## Masking and testing
+
+In August, 2023, COVID infections are again on the rise. It is impossible to foresee how the spread of infections  will develop this semester, and we continue to teach and learn in ways we did not anticipate. We will monitor the spread of the virus and re-evaluate our masking practices periodically throughout the semester.
+
+Because even a "mild" case can have serious consequences for at-risk populations, as the semester begins, medical-grade or better masks are required in class and in drop-in hours until further notice.
+
+Masking is equally uncomfortable for us all, but feeling unsafe creates a poor learning environment so please do your part. Please continue to proactively monitor, test, and isolate at the onset of COVID-19 symptoms and close contact with any individuals with known infections. We will continue to closely monitor viral surges and current College recommendations in regards to COVID-19 and any other infectious diseases that might emerge as we move through the semester.
 
 ## Diversity and Inclusivity
 
