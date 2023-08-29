@@ -8,15 +8,20 @@ nav_order: 18
 # Policies
 
 
-
 ## Class attendance
 
-Active participation in class is one of the most effective ways to learn ancient Greek.  My expectations for your class attendance follow the college policies posted at [https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext](https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext).
 
-If at some point in the semester you are unable to complete the required preparation for a single class, please come anyway: staying away only compounds the difficulty of catching up.  If you let me know that you're not prepared, I will not call on you in class.
+Work in class is an essential component of the course, and regular attendance is required.  (See the course grading rubric in this syllabus for how class attendance contributes to your final course grade.) Excused absences do *not* count against your course grade. If you know of scheduled conflicts with class meeting times, please speak with Prof. Smith as soon as possible to make arrangements ahead of time for how best to make up work for an excused absence.  
 
+If you are sick or have symptoms of a possible communicable disease such as COVID, on the other, please do *not* come to class. You should get in touch with Prof. Smith by email as soon as possible to make arrangements for following up on an unplanned excused absence.
 
-If you are experiencing symptoms of a communicable disease, please let me know and do *not* come to class.  If you are are unable to attend class for whatever reason, for a shorter or longer period of time, please get in touch with me so we can work out a plan to get you caught up.
+## Masking and testing
+
+In August, 2023, COVID infections are again on the rise. It is impossible to foresee how the spread of infections  will develop this semester, and we continue to teach and learn in ways we did not anticipate. We will monitor the spread of the virus and re-evaluate our masking practices periodically throughout the semester.
+
+Because even a "mild" case can have serious consequences for at-risk populations, as the semester begins, medical-grade or better masks are required in class and in drop-in hours until further notice.
+
+Masking is equally uncomfortable for us all, but feeling unsafe creates a poor learning environment so please do your part. Please continue to proactively monitor, test, and isolate at the onset of COVID-19 symptoms and close contact with any individuals with known infections. We will continue to closely monitor viral surges and current College recommendations in regards to COVID-19 and any other infectious diseases that might emerge as we move through the semester.
 
 
 
