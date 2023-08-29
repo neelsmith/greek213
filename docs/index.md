@@ -7,9 +7,10 @@ has_children: true
 
 # Greek 213, F'23: home page
 
+
+
 Welcome to the course web site for Greek 213!
 
-All course material will be made available here during the first week of classes.
 
 
 > ## ⚠️ Please note
@@ -17,77 +18,24 @@ All course material will be made available here during the first week of classes
 > ***Masks will be required for our first class meeting.***
 
 
-## Preparing for first class (Wed., 6 Sept.)
 
-1. For our first class meeting, masks will be required.
-2. Please review the definite article, and the principal parts of verbs.  If you have any questions about the form or usage of the article or principal parts of verbs, bring them to class!
+## Week overview
 
+### Important points
 
+- review from Greek 101-102: the article and principal parts of verbs
+- a structured practice of reading:
+    1. isolate verbal expressions
+    1. fully identify verb forms, and construction of each verbal expression
+    1. progressing from syntatically topmost verbal expression downward, identify forms and syntax of vocabulary
+    1. synthesize helpful material from commentaries
 
+### Assignments
 
-## Review: the definite article
-
-### Forms
-
-| | Masculine | Feminine | Neuter |
-| --- | --- | --- | --- |
-| *singular* |  |  |  |
-| **nominative** | ὁ | ἡ | τό |
-| **genitive** | τοῦ | τῆς | τοῦ |
-| **dative** | τῷ | τῇ | τῷ |
-| **accusative** | τόν | τήν | τό |
-| *plural* |  |  |  |
-| **nominative** | οἱ | αἱ | τά |
-| **genitive** | τῶν | τῶν | τῶν |
-| **dative** | τοῖς | ταῖς | τοῖς |
-| **accusative** | τούς | τάς | τά |
+- [Wed., Aug. 30](./classes/intro/): review the article and principal parts of verbs.
+- [Fri., Sept. 1](./classes/a_practice/): introduction to reading Xenophon.  Practice quiz on principal parts.
 
 
-### Usage
+### Coming up
 
-- *attributive* position: two possible forms, e.g., ἡ ἀγαθὴ γυνή, or ἡ γυνὴ ἡ ἀγαθή
-- *predicate* positioν ἡ γυνὴ ἀγαθή
-
-## Review: principal parts
-
-
-### Forms
-
-Regular formation of principal parts:
-
-|   1 | 2 | 3 | 4 | 5 | 6 | 
-| --- | --- | --- | --- | --- | --- | --- | 
-|   stem | stem + σ- | stem + σ- | reduplicated stem + κ- | reduplicated stem | stem + θ- | 
-
-
-Example: **φυτευ**- "to plant, grow"
- (an -ω or thematic verb, stem ending in vowel):
-
-|  1 | 2 | 3 | 4 | 5 | 6 | 
-| --- | --- | --- | --- | --- | --- |
-| φυτεύω | φυτεύσω | ἐφύτευσα | πεφύτευκα | πεφύτευμαι | ἐφυτεύθην |
-
-
-
-Example: **ἀρχ**- "to begin, lead" (an -ω or thematic verb, stem  ending in vowel):
-
-|  Stem |  1 | 2 | 3 | 4 | 5 | 6 | 
-| --- | --- | --- | --- | --- | --- | --- | --- | 
-| ἄρχω | ἄρξω |  ἦρξα | ἦρχα | ἦργμαι | ἤρχθην | 
-
-Example: **ἐπι** + **δείκ** (a -μι or athematic verb)
-
-
-|  Stem |  1 | 2 | 3 | 4 | 5 | 6 | 
-| --- | --- | --- | --- | --- | --- | --- | --- | 
-| ἐπιδείκνυμι|  ἐπιδείξω |  ἐπέδειξα |  ἐπιδέδειχα |  ἐπιδέδειγμαι |  ἐπεδείχθην | 
-
-
-### Using principal parts
-
-Tense/voice combinations formed from each principal part:
-
-| | 1 | 2 | 3 | 4 | 5 | 6 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Tenses | Present, imperfect | Future | Aorist |  Perfect, pluperfect | Perfect, pluperfect | Future, aorist |
-| Voices | Active, middle, passive|  Active, middle | Active, middle | Active | Middle, passive | Passive |
+- Mon., Sept. 4:  quiz on principal parts.

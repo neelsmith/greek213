@@ -1,0 +1,14 @@
+theme: "just-the-docs"
+title: "Greek 213,  F'23"
+
+
+
+aux_links:
+  "Course Google Drive": 
+    - "https://drive.google.com/drive/u/0/folders/1hXQ600FaFdCJPisyyHXLCIQvYnmo068X"
+  "Sewell commentary":
+    - "https://neelsmith.github.io/greek213/Oeconomicus-Sewell.pdf"
+  "Holden commentary":
+    - "https://neelsmith.github.io/greek213/Oeconomicus-Holden.pdf"
+
+footer_content: "Greek 213, Fall 2023.  All material on this web site is available under the Creative Commons Attribution Share-Alike license <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0 <img height=\"15\" width=\"80\" src=\"https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png\" /></a> on <a href=\"https://github.com/neelsmith/greek213\">github</a>."    

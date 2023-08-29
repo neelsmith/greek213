@@ -1,5 +1,6 @@
 Manifest.toml
 docs/Gemfile
+docs/schedule/
 *.lock
 _site/
 docs/.jekyll-cache/

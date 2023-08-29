@@ -1,12 +1,12 @@
 
 *no classes*
 [Introduction to course](../classes/module1/intro/)
-Principal parts
+[A practice of reading](../classes/a_practice/). Practice quiz on principal parts.
 
 
-1
-2
-3
+Reading with [commentaries](../classes/commentaries/). Quiz on princparts
+Taking notes with Obsidian
+. Submit bio to course web site!
 
 
 
