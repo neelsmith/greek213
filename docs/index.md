@@ -1,7 +1,7 @@
 ---
 title: "Greek 213, F'23: home page"
 layout: page
-nav_order: 0
+nav_order: 2
 has_children: true
 ---
 
