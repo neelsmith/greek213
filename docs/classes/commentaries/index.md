@@ -17,7 +17,7 @@ What is the canonical reference scheme for identifying passages of Xenophon's *O
 
 The digital texts in the library of the Scaife Viewer also rely on canonical citation to retrieve passages of text. Visit the [Scaife Viewer's edition of the *Oeconomicus*](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg003.perseus-grc2:/), and set the passage reference to display sections 1.1 through 1.3.
 
-
+In class, we'll apply to these sections the same approach to reading that we began in the first week of class, but will now add a further step of consulting commentaries on the passage we're reading.
 
 ## Intentions
 

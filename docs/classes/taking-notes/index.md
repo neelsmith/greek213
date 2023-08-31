@@ -1,14 +1,11 @@
 ---
-title: "Taking notes with Obsidian"
+title: "Collaboration and note taking"
 layout: page
 nav_order: 4
 has_children: true
 parent: "Schedule"
 ---
 
-# Collaboration
+# Collaboration and note taking
 
-
-## Taking notes with Obsidian
-
-https://obsidian.md/download
+TBA
