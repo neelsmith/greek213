@@ -8,18 +8,15 @@ has_children: true
 # Greek 213, F'23: home page
 
 
+## Announcement
 
-Welcome to the course web site for Greek 213!
-
-
-
-> ## ⚠️ Please note
->
-> ***Masks will be required for our first class meeting.***
+- See a summary of [important dates and deadlines](./deadlines/).
+- **Mon. Sept. 4**: quiz on principal parts.
+- **Fri. Sept. 8**: submit bio page for collaborative commentary project.
 
 
 
-## Week overview
+## Week of Aug. 30, Sept. 1
 
 ### Important points
 
@@ -36,6 +33,13 @@ Welcome to the course web site for Greek 213!
 - [Fri., Sept. 1](./classes/a_practice/): introduction to reading Xenophon.  Practice quiz on principal parts.
 
 
-### Coming up
+## Week of Sept. 4-8
 
-- Mon., Sept. 4:  quiz on principal parts.
+### Assignments
+
+- [Mon.](./classes/commentaries/): What is a commentary? In class: quiz on principal parts
+- [Wed.](./classes/taking-notes/): Taking notes with the Obsidian app.
+- Fri.
+
+
+
