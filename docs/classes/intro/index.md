@@ -64,7 +64,7 @@ Example: **ἀρχ**- "to begin, lead" (an -ω or thematic verb, stem  ending in
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | ἄρχω | ἄρξω |  ἦρξα | ἦρχα | ἦργμαι | ἤρχθην | 
 
-Example: **ἐπι** + **δείκ** (a -μι or athematic verb)
+Example: **ἐπι** + **δείκ**- "to display, exhibit" (a -μι or athematic verb)
 
 
 |  Stem |  1 | 2 | 3 | 4 | 5 | 6 | 
