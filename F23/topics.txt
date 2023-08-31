@@ -5,7 +5,7 @@
 
 
 Reading with [commentaries](../classes/commentaries/). Quiz on princparts
-Taking notes with Obsidian
+[Collaboration and taking notes](../classes/taking-notes/) with Obsidian
 . Submit bio to course web site!
 
 
