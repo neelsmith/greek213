@@ -11,8 +11,9 @@ has_children: true
 ## Announcement
 
 - See a summary of [important dates and deadlines](./deadlines/).
-- **Mon. Sept. 4**: quiz on principal parts.
-- **Fri. Sept. 8**: submit bio page for collaborative commentary project.
+- **Wed. Sept. 6**: submit bio page for collaborative commentary project.
+- **Fri. Sept. 8**: quiz on principal parts.
+
 
 
 
@@ -37,9 +38,9 @@ has_children: true
 
 ### Assignments
 
-- [Mon., Sept. 4](./classes/commentaries/): What is a commentary? *In class*: quiz on principal parts
-- [Wed., Sept. 6](./classes/taking-notes/): Collaboration and note taking.
-- [Fri, Sept. 8](./classes/conditions/): Reviewing conditional statements in Greek.
+- [Mon., Sept. 4](./classes/commentaries/): What is a commentary? 
+- [Wed., Sept. 6](./classes/taking-notes/): Collaboration and note taking with Obsidian.
+- [Fri, Sept. 8](./classes/conditions/): Reviewing conditional statements in Greek. *In class*: quiz on principal parts
 
 
 
