@@ -11,8 +11,9 @@ has_children: true
 ## Announcement
 
 - See a summary of [important dates and deadlines](./deadlines/).
-- **Mon. Sept. 4**: quiz on principal parts.
-- **Fri. Sept. 8**: submit bio page for collaborative commentary project.
+- **Wed. Sept. 6**: submit bio page for collaborative commentary project.
+- **Fri. Sept. 8**: quiz on principal parts.
+
 
 
 
