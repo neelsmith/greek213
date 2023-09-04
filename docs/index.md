@@ -38,9 +38,9 @@ has_children: true
 
 ### Assignments
 
-- [Mon., Sept. 4](./classes/commentaries/): What is a commentary? *In class*: quiz on principal parts
-- [Wed., Sept. 6](./classes/taking-notes/): Collaboration and note taking.
-- [Fri, Sept. 8](./classes/conditions/): Reviewing conditional statements in Greek.
+- [Mon., Sept. 4](./classes/commentaries/): What is a commentary? 
+- [Wed., Sept. 6](./classes/taking-notes/): Collaboration and note taking with Obsidian.
+- [Fri, Sept. 8](./classes/conditions/): Reviewing conditional statements in Greek. *In class*: quiz on principal parts
 
 
 
