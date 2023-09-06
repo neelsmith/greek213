@@ -9,4 +9,7 @@ parent: "Schedule"
 
 # Reviewing conditions
 
-> **Review sheet TBA**
+
+## Preparing for class
+
+Review [conditional constructions in Greek](../../review/conditions/)
