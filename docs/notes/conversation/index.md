@@ -8,7 +8,7 @@ parent: "Collected notes"
 # How to have a Socratic conversation in Greek
 
 - one interlocutor is Socrates
-- the verb for the conversation is διαλέγεσθαι (middle voice)
+- the verb for the conversation is διαλέγεσθαι (middle voice).  Note that the conversation itself is a λόγος, so the verb can mean something like "mutually work through our λόγος."
 - the conversation proceeds via questions
 
 
@@ -29,7 +29,7 @@ Agreement:
 
 ## Advancing the argument
 
-- τοι "Its primary function is to bring home to the comprehension of the person addressed a truth of which he is ignorant, or temporarily oblivious."
+- τοι "Its primary function is to bring home to the comprehension of the person addressed a truth of which he is ignorant, or temporarily oblivious" (Dennsion).
 
 
 
