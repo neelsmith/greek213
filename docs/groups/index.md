@@ -9,7 +9,7 @@ has_children: true
 # Groups for first two collaborative assignments
 
 
- Crain, Emma Louise **2**
+- Crain, Emma Louise **2**
 - Farrell, Madeleine E **1**
 - Figge, Leo Peter **3**
 - Fuller, Haley Robbins **2**
