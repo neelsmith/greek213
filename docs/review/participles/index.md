@@ -9,7 +9,28 @@ has_children: true
 
 # Participles
 
-## Forms
+## Forms: synopses of nominative and genitive singular in all genders
+
+παύω, παύσω, ἔπαυσα, πέπαυκα, πέπαυμαι, ἐπαύθην
+
+| Tense voice | Nominative singular (m, f, n) | Genitive singular (m, f, n)|
+| --- | --- | --- |
+| Present active |παύων, παύουσα, παῦον | παύοντος, παυούσης, παύοντος |
+| Present middle |παυόμενος, παυομένη, παυόμενον | παυομένου, παυομένης, παυομένου |
+| Present passive |παυόμενος, παυομένη, παυόμενον | παυομένου, παυομένης, παυομένου |
+| Aorist active |παύσας, παύσασα, παῦσαν | παύσαντος, παυσάσης, παύσαντος |
+| Aorist middle |παυσάμενος, παυσαμένη, παυσάμενον | παυσαμένου, παυσαμένης, παυσαμένου |
+| Aorist passive |παυθεῖς, παυθεῖσα, παυθέν | παυθέντος, παυθείσης, παυθέντος |
+| Perfect active |πεπαυκώς, πεπαυκυῖα, πεπαυκός | πεπαυκότος, πεπαυκυίας, πεπαυκότος |
+| Perfect middle |πεπαυμένος, πεπαυμένη, πεπαυμένον | πεπαυμένου, πεπαυμένης, πεπαυμένου |
+| Perfect passive |πεπαυμένος, πεπαυμένη, πεπαυμένον | πεπαυμένου, πεπαυμένης, πεπαυμένου |
+| Future active |παύσων, παύσουσα, παῦσον | παύσοντος, παυσούσης, παύσοντος |
+| Future middle |παυσόμενος, παυσομένη, παυσόμενον | παυσομένου, παυσομένης, παυσομένου |
+| Future passive |παυθησόμενος, παυθησομένη, παυθησόμενον | παυθησομένου, παυθησομένης, παυθησομένου |
+
+
+
+ἄρχω, ἄρξω, ἦρξα, ἦρχα, ἦργμαι, ἤρχθην, "begin"
 
 | Tense voice | Nominative singular (m, f, n) | Genitive singular (m, f, n)|
 | --- | --- | --- |
@@ -30,7 +51,9 @@ has_children: true
 
 ## Meaning: attributive participles
 
+Like other attributive adjectives, attributive participles refer to a *specific* person or thing, often to distinguish the specific noun from other nouns. In English, we use *relative clauses* to express similar verbal ideas: "the one who..." (i.e., *not* the others).
 
+An attributive participial expression can easily be used as a substantive, to express a generalizing idea:  ὁ τεκτονικὴν ἐπιστάμενος "the person who knows the art of building" (i.e., anyone who knows, or all people who know this art).
 
 ## Meaning: circumstantial participles
 
