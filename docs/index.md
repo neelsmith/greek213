@@ -11,9 +11,7 @@ has_children: true
 ## Announcement
 
 
-- Regular peer-tutoring sessions: Tuesday, 5:00-6:00, Fenwick 420
-- Principal parts: revise by Tuesday, Sept. 19, for full point total.
-- Review of [conditional statements in Greek](./review/conditions/)
+- Please review [forms and usage of the participle](./review/participles/)
 - See a summary of [important dates and deadlines](./deadlines/).
 
 ## Group commentary assignment 1
