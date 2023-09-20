@@ -11,7 +11,7 @@ parent: "Schedule"
 
 ## Forming teams
 
-Please complete [this Google form](https://forms.gle/wAi9oZjsK8xTeK2b6) before class: that will help me make up initial teams for our collaborative commentary.
+Please complete [this Google form](https://forms.gle/wAi9oZjsK8xTeK2b6) before class: that will help me make up initial teams for our collaborative commentary. 
 
 ## Markdown
 
