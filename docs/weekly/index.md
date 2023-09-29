@@ -32,3 +32,12 @@ has_children: true
 
 - [Wed., Aug. 30](../classes/intro/): review the article and principal parts of verbs.
 - [Fri., Sept. 1](../classes/a_practice/): introduction to reading Xenophon.  Practice quiz on principal parts.
+
+## Week of Sept. 11 - Sept. 15
+
+Reading: the programmatic introduction to the *Oeconomicus*, sections 1.1-1.12
+
+
+- Monday: the [structure of the dialog](./classes/structure/).
+- Wednesday
+- Friday
