@@ -8,13 +8,9 @@ has_children: true
 # Greek 213, F'23: home page
 
 
-## Announcement
+## Announcements
 
-
-- Regular peer-tutoring sessions: Tuesday, 5:00-6:00, Fenwick 420
-- Principal parts: revise by Tuesday, Sept. 19, for full point total.
-- Review of [conditional statements in Greek](./review/conditions/)
-- See a summary of [important dates and deadlines](./deadlines/).
+- one-page summary of [Markdown](https://commonmark.org/help/); feel free to try the 10-minute tutorial linked there.
 
 ## Group commentary assignment 1
 
@@ -27,16 +23,14 @@ has_children: true
     - group 3: 1.9-1.12
 
 
-## Week of Sept. 11 - Sept. 15
-
-Reading: the programmatic introduction to the *Oeconomicus*, sections 1.1-1.12
-
-
-- Monday: the [structure of the dialog](./classes/structure/).
-- Wednesday
-- Friday
 
 
 
 
+
+## Week of Oct. 2 - Oct. 15
+
+- Monday: reread 1.1-1.12 from your commentary, or workshopping your commentary as needed.
+- Wednesday: introduction to sections 6.11-13.  Please read the entire section in English.
+- Friday: Ischomachus, the perfect gentleman
 
