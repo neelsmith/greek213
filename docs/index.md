@@ -8,11 +8,9 @@ has_children: true
 # Greek 213, F'23: home page
 
 
-## Announcement
+## Announcements
 
-
-- Please review [forms and usage of the participle](./review/participles/)
-- See a summary of [important dates and deadlines](./deadlines/).
+- one-page summary of [Markdown](https://commonmark.org/help/); feel free to try the 10-minute tutorial linked there.
 
 ## Group commentary assignment 1
 
