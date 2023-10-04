@@ -10,6 +10,7 @@ has_children: true
 
 ## Announcements
 
+- [approaching a passage of historical text](./reading/): preparing to read
 - one-page summary of [Markdown](https://commonmark.org/help/); feel free to try the 10-minute tutorial linked there.
 
 ## Group commentary assignment 1
@@ -26,11 +27,9 @@ has_children: true
 
 
 
-
-
 ## Week of Oct. 2 - Oct. 15
 
 - Monday: reread 1.1-1.12 from your commentary, or workshopping your commentary as needed.
 - Wednesday: introduction to sections 6.11-13.  Please read the entire section in English.
-- Friday: Ischomachus, the perfect gentleman
+- Friday: Ischomachus, the perfect gentleman. Try applying the [approach to reading a passage of Greek](./reading/) to *Oeconomicus* 7.5-7.6.
 
