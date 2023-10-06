@@ -6,16 +6,18 @@ has_children: true
 ---
 
 
-# Selections we could read from the *Oeconomicus* 
+# Selections from the *Oeconomicus* 
 
-## 1.1-1.12 Programmatic introduction: what is *oikonomia*?
+## Formatting conventions in linked PDFs
+
+- indentation reflects syntactic subordination
+- verbal expressions are **bold** face
+- color indicates whether a verb is *transitive* (red), *intransitive* (blue) or *linking* (green)
+- participles and the substantives they agree with are underlined
 
 
-
-## 6.12-6.17: looking for the *kalos kagathos*
-
- - A new character: Ischomenus, the ideal gentleman
+## Color PDFs with syntactically highlighted selections
 
 
-## 7.4 and following: the education of Ischomenus' wife
-
+- [7.4](./XenOec7.4.pdf)
+- [7.5-7.6](./XenOec7.5-7.6.pdf)
