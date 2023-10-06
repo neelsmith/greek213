@@ -21,3 +21,4 @@ has_children: true
 
 - [7.4](./XenOec7.4.pdf)
 - [7.5-7.6](./XenOec7.5-7.6.pdf)
+- [7.7-7.8](./XenOec7.7-7.8.pdf)
