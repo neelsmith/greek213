@@ -10,7 +10,7 @@ has_children: true
 
 ## Announcements
 
-- See syntactrically
+- See [syntactically formatted reading selections for sections 7.4-7.10](./selections/)
 - [approaching a passage of historical text](./reading/): preparing to read
 
 
