@@ -13,15 +13,6 @@ has_children: true
 - See [syntactically formatted reading selections for sections 7.4-7.10](./selections/)
 - [approaching a passage of historical text](./reading/): preparing to read
 
+## Week of Oct. 16 - Oct. 20
 
-
-
-
-
-
-## Week of Oct. 2 - Oct. 6
-
-- Monday: reread 1.1-1.12 from your commentary, or workshopping your commentary as needed.
-- Wednesday: introduction to sections 6.11-13.  Please read the entire section in English.
-- Friday: Ischomachus, the perfect gentleman. Try applying the [approach to reading a passage of Greek](./reading/) to *Oeconomicus* 7.5-7.6.
-
+- Work on sections 7.4-7.10.  We will distribute passages for second commentary assignment this week.
