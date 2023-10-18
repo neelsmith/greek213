@@ -15,4 +15,4 @@ has_children: true
 
 ## Week of Oct. 16 - Oct. 20
 
-- Work on sections 7.4-7.10.  We will distribute passages for second commentary assignment this week.
+- Work on sections [7.4-7.10](./selections/).  We will distribute passages for second commentary assignment this week.
