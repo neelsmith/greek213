@@ -10,9 +10,9 @@ has_children: true
 
 ## Announcements
 
-- See [syntactically formatted reading selections for sections 7.4-7.10](./selections/)
+- See [syntactically formatted reading selections for sections 7.4-7.11](./selections/)
 - [approaching a passage of historical text](./reading/): preparing to read
 
 ## Week of Oct. 16 - Oct. 20
 
-- Work on sections [7.4-7.10](./selections/).  We will distribute passages for second commentary assignment this week.
+- Work on sections [7.4-7.11](./selections/).  We will distribute passages for second commentary assignment this week.
