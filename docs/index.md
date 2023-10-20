@@ -11,11 +11,13 @@ has_children: true
 ## Announcements
 
 - See [syntactically formatted reading selections for sections 7.4-7.11](./selections/)
-- [approaching a passage of historical text](./reading/): preparing to read
+
 
 ## Commentary assignment 2
 
-- [instructions]()
+Before beginning, review these notes on [approaching a passage of historical text](./reading/)
+
+- [instructions](./commentary_project/submission2/) for submission 2
 - due dates
     - preparatory inventory: Wednesday, Oct. 25
     - commentary: Monday, Oct. 30

@@ -2,7 +2,7 @@
 title: "Preparatory inventory"
 parent: "Collaborative commentary project"
 layout: page
-nav_order: 4
+nav_order: 2
 ---
 
 
