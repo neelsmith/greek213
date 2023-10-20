@@ -2,6 +2,7 @@
 title: "Collaborative commentary project"
 layout: page
 nav_order: 4
+has_children: true
 ---
 
 # Collaborative commentary project
@@ -12,9 +13,18 @@ nav_order: 4
 Due dates for initial submissions:
 
 - passage 1: Oct. 2
-- passage 2: Oct. 23
-- passage 3: Nov. 10
-- passage 4: Nov. 20
+- passage 2: Oct. 30
+- passage 3: tba
+- passage 4: tba
+
+
+## Passage assignments for submission 2
+
+
+- group 1:
+- group 2:
+- group 3:
+- group 4:
 
 
 ## Passage assignments for submission 1
@@ -25,7 +35,12 @@ Due dates for initial submissions:
 
 
 
-## Steps  follow
+## Inventory prior to commentary
+
+1. Complete the 
+
+
+## Preparing the Markdown commentary
 
 1. Download the folder `xenophon-oeconomicus-commentary` from the course Google Drive and open it in Obsidian. You can search for your passage by reference, or scroll through the `reader` folder to find your passage.
 2. You will see links you can click to create three distinct sets of comments: one for syntax, one for vocabulary, and a third for other or general commentary.

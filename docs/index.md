@@ -13,6 +13,14 @@ has_children: true
 - See [syntactically formatted reading selections for sections 7.4-7.11](./selections/)
 - [approaching a passage of historical text](./reading/): preparing to read
 
+## Commentary assignment 2
+
+- [instructions]()
+- due dates
+    - preparatory inventory: Wednesday, Oct. 25
+    - commentary: Monday, Oct. 30
+
+
 ## Week of Oct. 16 - Oct. 20
 
 - Work on sections [7.4-7.11](./selections/).  We will distribute passages for second commentary assignment this week.
