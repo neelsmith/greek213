@@ -10,7 +10,7 @@ has_children: true
 
 ## Announcements
 
-- See [syntactically formatted reading selections for sections 7.4-7.11](./selections/)
+- See [syntactically formatted reading selections for sections 7.4-7.13](./selections/)
 
 
 ## Commentary assignment 2
