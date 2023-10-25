@@ -13,6 +13,7 @@ has_children: true
 - See [syntactically formatted reading selections for sections 7.4-7.13](./selections/)
 
 
+
 ## Commentary assignment 2
 
 Before beginning, review these notes on [approaching a passage of historical text](./reading/)
@@ -23,6 +24,8 @@ Before beginning, review these notes on [approaching a passage of historical tex
     - commentary: Monday, Oct. 30
 
 
-## Week of Oct. 16 - Oct. 20
+## Week of Oct. 23 - Oct. 27
 
-- Work on sections [7.4-7.11](./selections/).  We will distribute passages for second commentary assignment this week.
+Reading: 7.4-7.13
+
+Friday: read "Translator's Note" from Emily Wilson's translation of the *Odyssey*.  How do the choices she makes as a translator affect the experience of a reader of her translation?  Can her discussion help us think about our experience reading a text in Greek?

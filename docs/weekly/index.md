@@ -55,3 +55,9 @@ Reading: the programmatic introduction to the *Oeconomicus*, sections 1.1-1.12
 ## Week of Oct. 9 - Oct. 13
 
 Fall break
+
+## Week of Oct. 16 - Oct. 20
+
+- Work on sections [7.4-7.11](./selections/).  We will distribute passages for second commentary assignment this week.
+
+
