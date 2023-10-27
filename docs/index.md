@@ -10,7 +10,7 @@ has_children: true
 
 ## Announcements
 
-- See [syntactically formatted reading selections for sections 7.4-7.13](./selections/)
+- See [syntactically formatted reading selections for sections 7.4-7.17](./selections/)
 
 
 
@@ -22,6 +22,14 @@ Before beginning, review these notes on [approaching a passage of historical tex
 - due dates
     - preparatory inventory: Wednesday, Oct. 25
     - commentary: Monday, Oct. 30
+
+
+
+## Week of Oct. 30 - Oct. Nov. 3
+
+- Monday: commentary 2 assignment due. Revised schedule for remainder of semester introduced including reading selections in chapters 7-9.
+- Wednesday: **NO CLASS**.
+- Friday: TBA
 
 
 ## Week of Oct. 23 - Oct. 27
