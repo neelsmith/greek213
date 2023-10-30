@@ -1,5 +1,5 @@
 ---
-title: "Initial groups for collaborative assignments"
+title: "Groups for collaborative assignments"
 layout: page
 nav_order: 3
 has_children: true
@@ -19,3 +19,17 @@ has_children: true
 - Patti, Tessa Catherine **3**
 - Sullivan, Isabel Grace **2**
 - Warren, Meagan Elizabeth **1**
+
+
+# Groups for third collaborative assignment
+
+- Crain, Emma Louise	**β‘**
+- Farrell, Madeleine E		**β‘**
+- Figge, Leo Peter		**α‘**
+- Fuller, Haley Robbins	2	**α‘**
+- Jarvis, Aidan Lawrence	2	**β‘**
+- Kelleher, McKenna Kate	3	**β‘**
+- O'Neill, William Henry	1	**α‘**
+- Patti, Tessa Catherine	3	**γ‘**
+- Sullivan, Isabel Grace	2	**γ‘**
+- Warren, Meagan Elizabeth	1	**γ‘**

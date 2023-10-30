@@ -12,6 +12,16 @@ has_children: true
 
 - See [syntactically formatted reading selections for sections 7.4-7.17](./selections/)
 
+For Friday: 7.26-7.31
+
+Groups for next commentary assignment:
+
+- **α‘**:  Leo, Haley, Will
+- **β‘**: Emma, Maddie, Aidan, McKenna
+- **γ‘**: Tessa, Isabel, Meagan
+
+
+
 
 
 ## Commentary assignment 2
@@ -27,13 +37,10 @@ Before beginning, review these notes on [approaching a passage of historical tex
 
 ## Week of Oct. 30 - Oct. Nov. 3
 
-- Monday: commentary 2 assignment due. Revised schedule for remainder of semester introduced including reading selections in chapters 7-9.
+- Monday: commentary 2 assignment due. Reading in class: complete sections 7.4-7.17. Revised schedule for remainder of semester introduced including reading selections in chapters 7-9.
 - Wednesday: **NO CLASS**.
-- Friday: TBA
+- Friday: Read in English through.... Then prepare 7.26-7.31. Use inventory rubric. In class, we'll work to correct/complete rubric, and read passage together.
 
 
-## Week of Oct. 23 - Oct. 27
 
-Reading: 7.4-7.13
-
-Friday: read "Translator's Note" from Emily Wilson's translation of the *Odyssey*.  How do the choices she makes as a translator affect the experience of a reader of her translation?  Can her discussion help us think about our experience reading a text in Greek?
+## Week of Nov. 6 - Oct. Nov. 10
