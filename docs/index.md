@@ -16,9 +16,9 @@ For Friday: 7.26-7.31
 
 Groups for next commentary assignment:
 
-- **α‘**:  Leo, Haley, Will
-- **β‘**: Emma, Maddie, Aidan, McKenna
-- **γ‘**: Tessa, Isabel, Meagan
+- **α‘**:  Leo, Haley, Will. Assigned psg: 9.5-9.7
+- **β‘**: Emma, Maddie, Aidan, McKenna.  9.9-9.11
+- **γ‘**: Tessa, Isabel, Meagan. 9.14-9.15
 
 
 
@@ -38,9 +38,18 @@ Before beginning, review these notes on [approaching a passage of historical tex
 ## Week of Oct. 30 - Oct. Nov. 3
 
 - Monday: commentary 2 assignment due. Reading in class: complete sections 7.4-7.17. Revised schedule for remainder of semester introduced including reading selections in chapters 7-9.
-- Wednesday: **NO CLASS**.
+- Wednesday: **NO CLASS**.  Submit self-assessment of collaboration in first two commentary assignments.
 - Friday: Read in English through.... Then prepare 7.26-7.31. Use inventory rubric. In class, we'll work to correct/complete rubric, and read passage together.
 
 
 
 ## Week of Nov. 6 - Oct. Nov. 10
+
+Monday,  Wednesday: *Oeconomicus* 9.5-9.8. Ischomachus takes his wife on a tour of the well-ordered house.
+Friday: Begin *Oeconomicus* 9.9-9.13.  Other members of the household: slaves and the estate accountant/paymaster (ὁ ταμίας).
+
+
+## Week of Nov. 13 - Oct. Nov. 17
+
+- Monday:  Continue *Oeconomicus*  9.9-9.13.
+- Wednesday and Friday: *Oeconomicus*  9.14-9.15. Comparing Ischomachus' wife to the "guardians of the laws."
