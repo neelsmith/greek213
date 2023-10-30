@@ -4,9 +4,13 @@ parent: "Collaborative commentary project"
 layout: page
 nav_order: 3
 ---
-
+0
 
 # Commentary assignment 2
+
+
+Before beginning, review these notes on [approaching a passage of historical text](../../reading/)
+
 
 Due dates:
 
