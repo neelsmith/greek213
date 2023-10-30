@@ -11,6 +11,10 @@ nav_order: 4
 ## Collaborative commentary assignments
 
 - passage 1: Oct. 2
-- passage  2: Oct. 23
-- passage  3:  Nov. 10
-- passage  4: Nov. 20
+- passage  2: Oct. 30
+- passage  3:  Nov. 20
+
+
+## Individual commentary contributions
+
+- TBA
