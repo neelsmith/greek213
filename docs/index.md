@@ -11,8 +11,9 @@ has_children: true
 ## Announcements
 
 - See [syntactically formatted reading selections for sections 7.4-7.17](./selections/)
-- See [groups](./groups) for third commentary assignment, and [instructions](./commentary_project/submission3/).
-
+- See [groups](./groups) for third commentary assignment, and [instructions](./commentary_project/submission3/).  Due dates:
+    - inventory of verb forms and syntax: Nov. 13
+    - commentary: Nov. 20
 
 
 
