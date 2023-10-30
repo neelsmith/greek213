@@ -61,3 +61,10 @@ Fall break
 - Work on sections [7.4-7.11](./selections/).  We will distribute passages for second commentary assignment this week.
 
 
+
+
+## Week of Oct. 23 - Oct. 27
+
+Reading: 7.4-7.13
+
+Friday: read "Translator's Note" from Emily Wilson's translation of the *Odyssey*.  How do the choices she makes as a translator affect the experience of a reader of her translation?  Can her discussion help us think about our experience reading a text in Greek?

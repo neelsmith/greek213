@@ -4,9 +4,11 @@ parent: "Collaborative commentary project"
 layout: page
 nav_order: 3
 ---
-0
 
-# Commentary assignment 2
+
+
+# Commentary assignment 3
+
 
 
 Before beginning, review these notes on [approaching a passage of historical text](../../reading/)
@@ -14,24 +16,24 @@ Before beginning, review these notes on [approaching a passage of historical tex
 
 Due dates:
 
-- preparatory inventory: Wednesday, Oct. 25
-- commentary: Monday, Oct. 30
+- preparatory inventory: Monday, Nov. 13
+- commentary: Monday, Nov. 20
 
-## Passage assignments for submission 2
-
-- group 3: *Oeconomicus* 7.4
-- group 2: *Oeconomicus* 7.5-7.6
-- group 1: *Oeconomicus* 7.7-7.8
+## Passage assignments for submission 3
 
 
-
+- group α‘: *Oeconomicus* 9.5-9.7
+- group β‘: *Oeconomicus* 9.9-9.11
+- group γ‘: *Oeconomicus* 9.14-9.15
 
 
 ## Inventory prior to commentary
 
 Please compile an inventory of verb forms, and a syntactic inventory following [these guidelines](../inventory/).
 
-Submit your inventory as a PDF named "submission2-inventory.pdf" by adding it to the course Google drive.
+Submit your inventory as a PDF with a file name that indicates it's the inventory for assignment 3.
+
+
 
 
 ## Preparing the Markdown commentary
