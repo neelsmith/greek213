@@ -19,9 +19,9 @@ has_children: true
 
 ## Week of Oct. 30 - Oct. Nov. 3
 
-- Monday: commentary 2 assignment due. Reading in class: complete sections 7.4-7.17. Revised schedule for remainder of semester introduced including reading selections in chapters 7-9.
+- Monday: *commentary 2 assignment due*. Reading in class: [complete sections 7.4-7.17](https://neelsmith.github.io/greek213/selections/).
 - Wednesday: **NO CLASS**.  Submit self-assessment of collaboration in first two commentary assignments.
-- Friday: Reread in English at least  through section 7.31.  Then prepare an inventory of verbs and basic syntax for [*Oeconomicus* 7.26-7.31](./selections/XenOec7.26-7.31.pdf) using the [same inventory you used to prepare for commentary submission 2](./commentary_project/inventory/), and bring it to class with you. In class, we'll work to correct/complete rubric, and read the passage together.
+- Friday: In the previously distributed translation, reread in English at least  through section 7.31.  Then prepare an inventory of verbs and basic syntax for [*Oeconomicus* 7.26-7.31](./selections/XenOec7.26-7.31.pdf) using the [same inventory you used to prepare for commentary submission 2](./commentary_project/inventory/), and bring it to class with you. In class, we'll work to correct/complete rubric, and read the passage together.
 
 
 ## Week of Nov. 6 - Oct. Nov. 10
