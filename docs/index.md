@@ -8,10 +8,9 @@ has_children: true
 # Greek 213, F'23: home page
 
 
-## Announcements
+## Announcements and reminders
 
-- **Wednesday, Nov 1**: submit self-assessment of collabration.
-- See [syntactically formatted reading selections for sections 7.4-7.17](./selections/)
+
 - See [groups](./groups) for third commentary assignment, and [instructions](./commentary_project/submission3/).  Due dates:
     - inventory of verb forms and syntax: Nov. 13
     - commentary: Nov. 20
@@ -29,7 +28,7 @@ has_children: true
 
 ## Week of Nov. 6 - Oct. Nov. 10
 
-- Monday,  Wednesday: *Oeconomicus* 9.5-9.8. Ischomachus takes his wife on a tour of the well-ordered house.
+- Monday,  Wednesday: In English, reread rapidly 7.32-9.4.) In Greek, read *Oeconomicus* [9.5-9.8](./selections/XenOec9.5-9.8.pdf). Ischomachus takes his wife on a tour of the well-ordered house.
 - Friday: Begin *Oeconomicus* 9.9-9.13.  Other members of the household: slaves and the estate accountant/paymaster (ὁ ταμίας).
 
 

@@ -8,6 +8,11 @@ has_children: true
 
 # Older announcements 
 
+
+- **Wednesday, Nov 1**: submit self-assessment of collabration.
+- See [syntactically formatted reading selections for sections 7.4-7.17](./selections/)
+
+
 ## Group commentary assignment 1
 
 
