@@ -38,5 +38,5 @@ has_children: true
 
 ## Week of Nov. 13 - Oct. Nov. 17
 
-- Monday:  Continue *Oeconomicus*  [9.9-9.13](./selections/XenOec9.9-9.13.pdf).
-- Wednesday and Friday: *Oeconomicus*  9.14-9.15. Comparing Ischomachus' wife to the "guardians of the laws."
+- Monday and Wednesday:  Continue *Oeconomicus*  [9.9-9.13](./selections/XenOec9.9-9.13.pdf). Establishing a system of managing people and goods.
+- Friday: *Oeconomicus*  9.14-9.15. Comparing Ischomachus' wife to the "guardians of the laws."
