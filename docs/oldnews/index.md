@@ -9,6 +9,13 @@ has_children: true
 # Older announcements 
 
 
+
+- See [groups](./groups) for third commentary assignment, and [instructions](./commentary_project/submission3/).  Due dates:
+    - inventory of verb forms and syntax: Nov. 13
+    - commentary: Nov. 20
+
+
+
 - **Wednesday, Nov 1**: submit self-assessment of collabration.
 - See [syntactically formatted reading selections for sections 7.4-7.17](./selections/)
 
