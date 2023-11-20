@@ -11,19 +11,16 @@ has_children: true
 ## Announcements and reminders
 
 
-- Commentary 3 assignment: due dates **TBA** on Monday, Nov.20
+- Commentary 3 assignment: 
+    - preparatory inventory: Wednesday, Nov. 29
+    - commentary: Friday, Dec. 1
 - Individual contribution to commentary: background essays:
     - idea for topic Friday, Nov. 17
     - initial background essay Wednesday, Nov. 29
     - application to a passage of your choosing Friday, Dec. 1
-    - revised submissions: Saturday, Dec. 9
+- Final revisions for all assignments: Saturday, Dec. 9
 
 
-## Week of Nov. 13 - Nov. 17
-
-- Monday : Continue *Oeconomicus*  [9.9-9.13](./selections/XenOec9.9-9.13.pdf). Establishing a system of managing people and goods.
-- Wednesday: no class  
-- Friday: *Oeconomicus*  
 
 
 ## Week of Nov. 20 - Oct. Nov. 24
@@ -33,4 +30,5 @@ has_children: true
 
 ## Week of Nov. 27 - Dec. 1
 
-*Oeconomicus* 9.14-9.15. Comparing Ischomachus’ wife to the “guardians of the laws.”
+*Oeconomicus* [9.14-9.15](./selections/XenOec9.14-9.15.pdf).
+Comparing Ischomachus’ wife to the “guardians of the laws.”  Compare the [opening sentence of Aristotle's *Politics*](./selections/AristPol.pdf)
