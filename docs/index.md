@@ -18,6 +18,7 @@ has_children: true
     - idea for topic Friday, Nov. 17
     - initial background essay Wednesday, Nov. 29
     - application to a passage of your choosing Friday, Dec. 1
+    - outline with [assigned topics](./preface-topics/)
 - Final revisions for all assignments: Saturday, Dec. 9
 
 
