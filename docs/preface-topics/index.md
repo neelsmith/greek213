@@ -26,6 +26,6 @@ has_children: true
 - Tessa: legal and social bacground on marriage
 - Leo: legal status of women: property rights and inheritance
 - Isabel: religious practices: who participated in what activities?
-- Meagan: Athenian political institutions mentioned by Ischomachus
+- Meagan: Athenian political institutions mentioned by Ischomachus (sections 9.14-9.15)
 - Maddie: the Greek house: what was it like physically?
 
