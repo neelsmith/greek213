@@ -9,7 +9,16 @@ has_children: true
 # Older announcements 
 
 
+- Individual contribution to commentary: background essays:
+    - idea for topic Friday, Nov. 17
+    - initial background essay Wednesday, Nov. 29
+    - application to a passage of your choosing Friday, Dec. 1
+    - outline with [assigned topics](./preface-topics/)
+- Commentary 3 assignment: 
+    - preparatory inventory: Wednesday, Nov. 29
+    - commentary: Friday, Dec. 1
 
+    
 - See [groups](./groups) for third commentary assignment, and [instructions](./commentary_project/submission3/).  Due dates:
     - inventory of verb forms and syntax: Nov. 13
     - commentary: Nov. 20

@@ -90,3 +90,14 @@ Friday: read "Translator's Note" from Emily Wilson's translation of the *Odyssey
 - Monday : Continue *Oeconomicus*  [9.9-9.13](./selections/XenOec9.9-9.13.pdf). Establishing a system of managing people and goods.
 - Wednesday: no class  
 - Friday: *Oeconomicus*  
+
+
+## Week of Nov. 20 - Oct. Nov. 24
+
+- Monday:  review, workshop commentary 3 assignment
+- Wednesday, Friday: *Thanksgiving break*
+
+## Week of Nov. 27 - Dec. 1
+
+*Oeconomicus* [9.14-9.15](./selections/XenOec9.14-9.15.pdf).
+Comparing Ischomachus’ wife to the “guardians of the laws.”  Compare the [opening sentence of Aristotle's *Politics*](./selections/AristPol.pdf)
