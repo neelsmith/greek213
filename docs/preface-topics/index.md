@@ -5,7 +5,7 @@ nav_order: 5
 has_children: true
 ---
 
-# Individual topics for commentary
+# Background topics for collaborative commentary
 
 
 ## Biographical contexts
